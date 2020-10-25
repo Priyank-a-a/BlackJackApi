@@ -9,4 +9,4 @@
 5. the api to create users/players is http://localhost:4200/create-players and has parameters name(name of the player) and coins(number of coins). After creating a user, 
 the navigation can be done to players list present in the same header. the details entered go directly to the database. This is a POST request.
 6. the api to search a player by an id is http://localhost:4200/players/{id} . it says "invalid id" if the id entered is not in database.
-7. the database is name as player and table inside is tbl_players
+7. the database is named as player and table inside is tbl_players
